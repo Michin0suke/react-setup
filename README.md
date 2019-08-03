@@ -26,6 +26,7 @@ As I think, React-Setup is more useful than React-Create-App!
   ;}
 
   EOF
+  source ~/.bash_profile
   ```
 
 3. Go to the directory where you want to create project and run following code. Change to your project name in place of `SomeProjects`.
@@ -35,6 +36,8 @@ react-setup SomeProjects
 ```
 
 4. If it works properly, Chrome will open automatically and display as "Congratulations"
+
+You can launch webpack-dev-server with run `npm start` anytime.
 
 ## LISENCE
 Copyright (c) 2019 Michinosuke
